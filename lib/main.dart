@@ -4,7 +4,6 @@ void main() {
   runApp(MyApp());
 }
 
-
 class MyApp extends StatelessWidget {
   //make pages on mobile phone
   @override
@@ -19,4 +18,4 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-}
+} //MyApp Class
